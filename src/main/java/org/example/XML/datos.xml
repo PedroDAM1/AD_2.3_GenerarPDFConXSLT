@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<empresa>
+    <nombre_compania>Empresa de prueba S.A. de C.V.</nombre_compania>
+    <empleado>
+        <id>1</id>
+        <nombre>Eva</nombre>
+        <puesto>Gerente</puesto>
+    </empleado>
+    <empleado>
+        <id>2</id>
+        <nombre>David</nombre>
+        <puesto>Ventas</puesto>
+    </empleado>
+    <empleado>
+        <id>3</id>
+        <nombre>Marta</nombre>
+        <puesto>Ejecutivo</puesto>
+    </empleado>
+    <empleado>
+        <id>4</id>
+        <nombre>Pablo</nombre>
+        <puesto>Ejecutivo</puesto>
+    </empleado>
+    <empleado>
+        <id>5</id>
+        <nombre>Sofía</nombre>
+        <puesto>Ejecutivo</puesto>
+    </empleado>
+</empresa>
